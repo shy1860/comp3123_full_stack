@@ -7,18 +7,12 @@ Mike Denton (mike.denton@georgebrown.ca)  [LinkedIn](https://www.linkedin.com/in
 
 Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com/in/alla-abramova-4a652297/)
 
-### Student Mentor
-
-Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
-
 ---
 
 ### Course Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
-(Updated 11-06-19)
+(Updated 09-04-19)
 
 ---
-
-### Coure Project [link](https://drive.google.com/file/d/18de8vQaykffl5Q1TGFLewAzqqNxizzyj/view?usp=sharing)
 
 ### Useful Links
 [JavaScript References](developer.mozilla.org)
@@ -48,16 +42,15 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 [4 Lecture](https://drive.google.com/file/d/1mKZm_9amGlsCESk-6BYLoD_l88l40uhI/view?usp=sharing)
 
-[5 Lecture](https://drive.google.com/file/d/1n9jafSky0XnI6fWpFZK1xowwh7XMhLhb/view?usp=sharing)
+[5 Lecture]
 
-[6 Lecture](https://drive.google.com/open?id=1Tvcccz4G6ge2ozh9NYjGp8WE8_WVhkU7)
-[6 Demo](https://drive.google.com/open?id=1wjmQUwQa-5wX33EMedZ2x7GiwHfFQk4M)
+[6 Lecture]
 
-[7 Lecture](https://drive.google.com/file/d/14awbBdQIm92MLr23ywHHKER9919MGMxK/view?usp=sharing)
+[7 Lecture]
 
-[8 Lecture](https://drive.google.com/file/d/1OwfAXyUfLYXBnaZlaBUEwsOVuTN3KQYm/view?usp=sharing)
+[8 Lecture]
 
-[9 Lecture](https://drive.google.com/file/d/17ySbGGKUX7DGG_Pri2ZQJavWAjqeJden/view?usp=sharing)
+[9 Lecture]
 
 [10 Lecture]
 
@@ -65,9 +58,7 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 [12 Lecture]
 
----
-### HEROKU/MONGO SETUP (Lab 3 - Step by Step)
-[Wiki](https://github.com/sultamuh/heroku_mean_stack/wiki)
+
 ---
 ### Labs
 
@@ -103,49 +94,17 @@ SUBMISSION: [Submit your Heroku App link here](https://forms.gle/YWrgPZjMBW1GFaC
 
 ANNOUNCEMENT: Hey guys! I (Alla) am not able to attend labs on Tuesday, Sept 24 (4pm-6pm) and Friday, Sept 27 (4pm-6pm). For those who need to catchup I will do an additional class next week on Thur (Oct 3) 5pm - 7pm. PLEASE DO YOUR BEST TO COMPLETE YOUR LAB:
 
-Task 1: [Get familiar with VS Code and start using it while coding](https://code.visualstudio.com/docs/getstarted/introvideos)   
+Task 1: [Get fsmiliar with VS Code nd start using it while coding](https://code.visualstudio.com/docs/getstarted/introvideos)   
 Task 2: [Tour of Heroes App and Tutorial - UP UNTIL and INCLUDING STEP 3](https://angular.io/tutorial)  
 SUBMIT your work to your GitHub account
 
 
 #### Week 5 lab - Oct, 2019   
-
-ANNOUNCEMENT: Hey guys! I (Alla) might be a bit late to lab on Tuesday, Oct 1st (4pm-6pm). PLEASE START DOING THE LAB without waiting for me.   
-
-Additional lab on Thur (Oct 3) 5pm - 7pm IS CANCELLED because it overlaps with your lecture that day. I will post additional labs schedule later this week.
-  
-Task 1: [Tour of Heroes Tutorial - STEP 4 - Services](https://angular.io/tutorial/toh-pt4)   
-Task 2: [Tour of Heroes Tutorial - STEP 5 - Routing](https://angular.io/tutorial/toh-pt5)   
-SUBMIT your work to your GitHub account
-
 #### Week 6 lab - Oct, 2019   
-
-ANNOUNCEMENT: Hey guys! I (Alla) will be at C410 lab each Tuesday from 6pm-8pm to help you with labs, questions and project work.
-  
-Task 1: [Tour of Heroes Tutorial - STEP 6 - HTTP](https://angular.io/tutorial/toh-pt6)   
-Task 2: [Template Form Tutorial](https://angular.io/guide/forms)
-
-SUBMIT your work to your GitHub account
-   
 #### Week 7 lab - Oct, 2019   
-General lab to catchup on previous labs.   
-
-#### Week 8 lab - Oct - start Nov, 2019  
-
-Download: [MongoDB](https://www.mongodb.com/download-center/community?jmp=docs)   
-Download: [Postman](https://www.getpostman.com/)   
-
-Task 1: [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)   
-Task 2: [Angular Feature Module](https://angular.io/guide/feature-modules)   
-   
+#### Week 8 lab - Oct, 2019   
 #### Week 9 lab - Nov, 2019   
-
-Task 1 (continue from last week): [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)   
-
-
 #### Week 10 lab - Nov, 2019   
-Task: [Building A REST API With MongoDB, Mongoose, And Node.js](https://www.thepolyglotdeveloper.com/2019/02/building-rest-api-mongodb-mongoose-nodejs/)   
-
 #### Week 11 lab - Nov, 2019   
 #### Week 12 lab - Nov, 2019   
 #### Week 13 lab - Dec, 2019   
